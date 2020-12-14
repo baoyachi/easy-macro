@@ -1,0 +1,2 @@
+# easy-macro
+rust macro 
